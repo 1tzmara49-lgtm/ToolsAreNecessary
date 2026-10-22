@@ -1,0 +1,28 @@
+
+<!-- Patches for setosa.power.tools -->
+<Patch>
+    <Operation Class="PatchOperationAddModExtension">
+        <xpath>Defs/ThingDef[defName="AdvancedTool_IndustrialChainsaw"]</xpath>
+        <value>
+            <li Class="ToolsAreNecessary.TANModExtension">
+                <canChop>true</canChop>
+            </li>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationAddModExtension">
+        <xpath>Defs/ThingDef[defName="AdvancedTool_PowerSaw"]</xpath>
+        <value>
+            <li Class="ToolsAreNecessary.TANModExtension">
+                <canChop>true</canChop>
+            </li>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationAddModExtension">
+        <xpath>Defs/ThingDef[defName="AdvancedTool_Jackhammer"]</xpath>
+        <value>
+            <li Class="ToolsAreNecessary.TANModExtension">
+                <canMine>true</canMine>
+            </li>
+        </value>
+    </Operation>
+</Patch>

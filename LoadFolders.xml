@@ -1,0 +1,9 @@
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+    <li>Mods/</li>
+    <li IfModActive="van.datools">Mods/van.datools/</li>
+    <li IfModActive="TheSimpleDude42.ToolsOPlenty">Mods/TheSimpleDude42.ToolsOPlenty/</li>
+    <li IfModActive="setosa.power.tools">Mods/setosa.power.tools/</li>
+  </v1.6>
+</loadFolders>

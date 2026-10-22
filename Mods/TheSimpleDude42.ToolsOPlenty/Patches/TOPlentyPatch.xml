@@ -1,0 +1,84 @@
+
+<!-- Patches for TheSimpleDude42.ToolsOPlenty -->
+<Patch>
+    <!-- Primitive -->
+    <Operation Class="PatchOperationAddModExtension">
+        <xpath>Defs/ThingDef[defName="Primitive_Knife"]</xpath>
+        <value>
+            <li Class="ToolsAreNecessary.TANModExtension">
+                <canChop>true</canChop>
+            </li>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationAddModExtension">
+        <xpath>Defs/ThingDef[defName="Primitive_Axe"]</xpath>
+        <value>
+            <li Class="ToolsAreNecessary.TANModExtension">
+                <canChop>true</canChop>
+            </li>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationAddModExtension">
+        <xpath>Defs/ThingDef[defName="Primitive_Pick"]</xpath>
+        <value>
+            <li Class="ToolsAreNecessary.TANModExtension">
+                <canMine>true</canMine>
+            </li>
+        </value>
+    </Operation>
+
+    <!-- Simple -->
+    <Operation Class="PatchOperationAddModExtension">
+        <xpath>Defs/ThingDef[defName="Axe"]</xpath>
+        <value>
+            <li Class="ToolsAreNecessary.TANModExtension">
+                <canChop>true</canChop>
+            </li>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationAddModExtension">
+        <xpath>Defs/ThingDef[defName="Pick"]</xpath>
+        <value>
+            <li Class="ToolsAreNecessary.TANModExtension">
+                <canMine>true</canMine>
+            </li>
+        </value>
+    </Operation>
+
+    <!-- Electric -->
+    <Operation Class="PatchOperationAddModExtension">
+        <xpath>Defs/ThingDef[defName="Drill"]</xpath>
+        <value>
+            <li Class="ToolsAreNecessary.TANModExtension">
+                <canMine>true</canMine>
+            </li>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationAddModExtension">
+        <xpath>Defs/ThingDef[defName="Rock_Drill"]</xpath>
+        <value>
+            <li Class="ToolsAreNecessary.TANModExtension">
+                <canMine>true</canMine>
+            </li>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationAddModExtension">
+        <xpath>Defs/ThingDef[defName="Chainsaw"]</xpath>
+        <value>
+            <li Class="ToolsAreNecessary.TANModExtension">
+                <canChop>true</canChop>
+            </li>
+        </value>
+    </Operation>
+
+    <!-- Spacer -->
+    <Operation Class="PatchOperationAddModExtension">
+        <xpath>Defs/ThingDef[defName="Multi_Tool"]</xpath>
+        <value>
+            <li Class="ToolsAreNecessary.TANModExtension">
+                <canChop>true</canChop>
+                <canMine>true</canMine>
+            </li>
+        </value>
+    </Operation>
+</Patch>

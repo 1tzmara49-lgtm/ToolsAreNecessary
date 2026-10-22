@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ToolsAreNecessary\Assemblies\ToolsAreNecessary.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ToolsAreNecessary\Assemblies\ToolsAreNecessary.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ToolsAreNecessary\Source\ToolsAreNecessary\obj\Debug\ToolsAreNecessary.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ToolsAreNecessary\Source\ToolsAreNecessary\obj\Debug\ToolsAreNecessary.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ToolsAreNecessary\Source\ToolsAreNecessary\obj\Debug\ToolsAreNecessary.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ToolsAreNecessary\Source\ToolsAreNecessary\obj\Debug\ToolsAreNecessary.pdb

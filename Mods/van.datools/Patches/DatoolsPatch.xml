@@ -1,0 +1,11 @@
+<!-- Patches for van.datools -->
+<Patch>
+    <Operation Class="PatchOperationAddModExtension">
+        <xpath>Defs/ThingDef[defName="DA_MeleeWeapon_Pickaxe"]</xpath>
+        <value>
+            <li Class="ToolsAreNecessary.TANModExtension">
+                <canMine>true</canMine>
+            </li>
+        </value>
+    </Operation>
+</Patch>
