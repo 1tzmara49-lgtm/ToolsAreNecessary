@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CA48C41-647D-481D-8183-B46A78DE8A8B}|ToolsAreNecessary.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\toolsarenecessary\\source\\toolsarenecessary\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CA48C41-647D-481D-8183-B46A78DE8A8B}|ToolsAreNecessary.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\toolsarenecessary\\source\\toolsarenecessary\\harmonyinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA48C41-647D-481D-8183-B46A78DE8A8B}|ToolsAreNecessary.csproj|solutionrelative:harmonyinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA48C41-647D-481D-8183-B46A78DE8A8B}|ToolsAreNecessary.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\jobpatching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA48C41-647D-481D-8183-B46A78DE8A8B}|ToolsAreNecessary.csproj|solutionrelative:jobpatching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA48C41-647D-481D-8183-B46A78DE8A8B}|ToolsAreNecessary.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CA48C41-647D-481D-8183-B46A78DE8A8B}|ToolsAreNecessary.csproj|solutionrelative:utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,20 +19,12 @@
       "RelativeMoniker": "D:0:0:{2CA48C41-647D-481D-8183-B46A78DE8A8B}|ToolsAreNecessary.csproj|solutionrelative:toolcaching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CA48C41-647D-481D-8183-B46A78DE8A8B}|ToolsAreNecessary.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\toolsarenecessary\\source\\toolsarenecessary\\jobpatching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA48C41-647D-481D-8183-B46A78DE8A8B}|ToolsAreNecessary.csproj|solutionrelative:jobpatching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA48C41-647D-481D-8183-B46A78DE8A8B}|ToolsAreNecessary.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\harmonyinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA48C41-647D-481D-8183-B46A78DE8A8B}|ToolsAreNecessary.csproj|solutionrelative:harmonyinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA48C41-647D-481D-8183-B46A78DE8A8B}|ToolsAreNecessary.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\toolsarenecessary\\source\\toolsarenecessary\\defmodextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA48C41-647D-481D-8183-B46A78DE8A8B}|ToolsAreNecessary.csproj|solutionrelative:defmodextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA48C41-647D-481D-8183-B46A78DE8A8B}|ToolsAreNecessary.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\toolsarenecessary\\source\\toolsarenecessary\\alerts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CA48C41-647D-481D-8183-B46A78DE8A8B}|ToolsAreNecessary.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\alerts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CA48C41-647D-481D-8183-B46A78DE8A8B}|ToolsAreNecessary.csproj|solutionrelative:alerts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA48C41-647D-481D-8183-B46A78DE8A8B}|ToolsAreNecessary.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\defmodextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA48C41-647D-481D-8183-B46A78DE8A8B}|ToolsAreNecessary.csproj|solutionrelative:defmodextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ToolsAreNecessary||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
@@ -37,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,26 +45,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DefModExtensions.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\DefModExtensions.cs",
-              "RelativeDocumentMoniker": "DefModExtensions.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\DefModExtensions.cs",
-              "RelativeToolTip": "DefModExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "HarmonyInit.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\HarmonyInit.cs",
+              "RelativeDocumentMoniker": "HarmonyInit.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\HarmonyInit.cs",
+              "RelativeToolTip": "HarmonyInit.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCIAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T11:00:15.608Z",
+              "WhenOpened": "2026-10-20T10:26:59.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Utility.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\Utility.cs",
               "RelativeDocumentMoniker": "Utility.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\Utility.cs",
               "RelativeToolTip": "Utility.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwCsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-21T09:12:00.701Z",
               "EditorCaption": ""
@@ -72,38 +72,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "DefModExtensions.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\DefModExtensions.cs",
+              "RelativeDocumentMoniker": "DefModExtensions.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\DefModExtensions.cs",
+              "RelativeToolTip": "DefModExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T11:00:15.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Alerts.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\Alerts.cs",
               "RelativeDocumentMoniker": "Alerts.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\Alerts.cs",
               "RelativeToolTip": "Alerts.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-21T09:08:15.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "JobPatching.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\JobPatching.cs",
               "RelativeDocumentMoniker": "JobPatching.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\JobPatching.cs",
               "RelativeToolTip": "JobPatching.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAqwG0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-20T10:47:14.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ToolCaching.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\ToolCaching.cs",
               "RelativeDocumentMoniker": "ToolCaching.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\ToolCaching.cs",
               "RelativeToolTip": "ToolCaching.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-20T10:29:30.873Z",
               "EditorCaption": ""
@@ -118,19 +131,6 @@
               "RelativeToolTip": "ToolsAreNecessary.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-10-20T10:27:38.107Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HarmonyInit.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\HarmonyInit.cs",
-              "RelativeDocumentMoniker": "HarmonyInit.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\ToolsAreNecessary\\Source\\ToolsAreNecessary\\HarmonyInit.cs",
-              "RelativeToolTip": "HarmonyInit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T10:26:59.391Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
